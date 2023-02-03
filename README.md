@@ -3,14 +3,22 @@
 <!--
 **jatnguyen237/jatnguyen237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Dat Nguyen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Back-end developer with expertise in Node.js, Nest.js, and Laravel. Passionate about delivering high-quality and scalable back-end solutions. Experienced in developing RESTful APIs and integrating with various databases. Committed to writing clean, maintainable, and efficient code. Constantly seeking to improve my skills and stay up-to-date with the latest technologies.
+
+## Skills
+
+- Node.js
+- Nest.js
+- Laravel
+- RESTful API Development
+- Database Integration (MySQL, MongoDB, etc.)
+- Clean Code Principles
+
+## Contact
+
+Feel free to reach out to me for any questions or collaborations.
+
+- Email: dat.nguyentan237@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dat-nguyen-tan/
