@@ -8,6 +8,7 @@ I am a Back-end developer with expertise in Node.js, Nest.js, and Laravel. Passi
 - Nest.js
 - Laravel
 - RESTful API Development
+- Message Queue(RabbitMQ)
 - Database Integration (MySQL, MongoDB, etc.)
 - Clean Code Principles
 
